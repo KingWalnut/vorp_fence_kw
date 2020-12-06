@@ -5,9 +5,9 @@ Black Market Items Buyer/seller (fence)
 
 Installation :
 
-1 - ensure vorp_fence_kw
+1 - ensure vorp_fence_kw in your server.cfg
 
-2 - add vorp_fence to resources folder
+2 - add vorp_fence_kw to resources folder
 
 Editted version of vorp_fence to support buy function from the shop as well. Credits to everyone else.
 
