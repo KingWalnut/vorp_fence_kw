@@ -1,6 +1,9 @@
 # vorp_fence_kw
 Black Market Items Buyer/seller (fence)
-Editted version of vorp_fence to support buy function from the shop as well. Credits to everyone else.
+
+Editted version of vorp_fence to support buy function from the shop as well. 
+
+Credits to everyone else.
 
 #
 **HOW TO INSTALL:**
